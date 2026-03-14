@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/deshmukh-sanket/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sanket.deshmukh@ufl.edu">
+  <a href="mailto:meetsanket24@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/deshmukhsanket/">
@@ -136,5 +136,5 @@
 
 <p align="center">
   <i>Open to Agentic AI, ML Engineering, and Data Engineering roles — full-time or internship. Let's connect!</i><br/>
-  <a href="mailto:sanket.deshmukh@ufl.edu">meetsanket24@gmail.com</a>
+  <a href="mailto:meetsanket24@gmail.com">meetsanket24@gmail.com</a>
 </p>
