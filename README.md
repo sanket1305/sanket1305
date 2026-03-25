@@ -15,6 +15,9 @@
   <a href="https://leetcode.com/u/deshmukhsanket/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://sanket1305.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
 ---
