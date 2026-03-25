@@ -26,7 +26,7 @@
 
 - 🤖 **Agentic AI Intern @ UFIT** — Building LLM-powered agents and prompt-driven workflows that automate campus enterprise systems (NaviGator AI)
 - 🏗️ **3 years** as a **Senior Data Engineer @ LTIMindtree** — ETL pipelines, Spark, HDFS data lakes processing 1M+ records/day
-- 🎓 **MS in Computer Science** @ University of Florida, Gainesville (Expected 2025)
+- 🎓 **MS in Computer Science** @ University of Florida, Gainesville (Expected 2026)
 - 💡 Specializing in **Agentic AI Systems**, **LLM Pipelines**, and **Large-Scale Data Engineering**
 - ✈️ Open to relocation &nbsp;|&nbsp; 🟢 Actively seeking **Agentic AI / ML / Data Engineer** roles
 
